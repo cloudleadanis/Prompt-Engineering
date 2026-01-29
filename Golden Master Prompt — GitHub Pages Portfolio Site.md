@@ -303,7 +303,7 @@ If inputs are not provided, proceed using clearly marked placeholders.
 ### Streaming
 
 - Platform(s):
-- Schedule:
+- URL:
 
 ---
 
